@@ -61,14 +61,6 @@ An interactive dashboard that analyzes sales performance and business metrics.
 
 ---
 
-## 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=B1LLD&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B1LLD&layout=compact)
-
----
-
 ## 🎯 Career Goal
 
 Aspiring Data Analyst / Business Intelligence Analyst seeking opportunities to apply analytical, visualization, and problem-solving skills to real-world business challenges.
