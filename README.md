@@ -4,8 +4,6 @@
 
 I am passionate about data analytics, business intelligence, machine learning, and software development. I enjoy transforming raw data into meaningful insights through dashboards, statistical analysis, and predictive modeling.
 
----
-
 ## 🛠️ Technical Skills
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -13,41 +11,30 @@ I am passionate about data analytics, business intelligence, machine learning, a
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SAS Viya](https://img.shields.io/badge/SAS%20Viya-005CAB?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Areas of Interest
-- Data Analytics
-- Business Intelligence
-- Data Visualization
-- Machine Learning
-- Predictive Analytics
-- Database Management
-- Software Development
-
----
 
 ## 📂 Featured Projects
 
 ### ❤️ Heart Disease Analytics (SAS Viya)
-
-A machine learning project that predicts heart disease risk using SAS Viya.
-
-#### Key Features
-- Data Preparation and Exploration
-- Model Training and Comparison
-- ROC Curve Analysis
-- Cumulative Lift Analysis
-- Performance Evaluation
-
-#### Technologies
-- SAS Viya
-- Machine Learning
-- Predictive Analytics
-
----
+Machine learning project for predicting heart disease risk using SAS Viya, including data preparation, model comparison, ROC analysis, and performance evaluation.
 
 ### 📊 Power BI Retail Sales Dashboard
+Interactive dashboard analyzing sales, profit, products, and business performance using Power BI and DAX.
 
+## 🌱 Currently Learning
+
+- Advanced Power BI
+- Machine Learning
+- Data Science
+- Backend Development
+
+## 🎯 Career Goal
+
+Aspiring Data Analyst / Business Intelligence Analyst seeking internship opportunities to apply analytical and problem-solving skills to real-world business challenges.
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/B1LLD
+- LinkedIn: (Your LinkedIn URL)
 An interactive dashboard that analyzes sales performance and business metrics.
 
 #### Key Features
@@ -91,7 +78,7 @@ Aspiring Data Analyst / Business Intelligence Analyst seeking opportunities to a
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/B1LLD
-- LinkedIn: Add your LinkedIn URL here
+- LinkedIn: https://www.linkedin.com/in/bill-davidson-b41717333/
 
 ---
 ⭐ Feel free to explore my repositories and projects!
